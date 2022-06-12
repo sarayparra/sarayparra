@@ -6,5 +6,5 @@
 - 📫 How to reach me at my email, Twitter, or Instagram
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I was born on Father's day and can speak three language (Spanish, English,Tagalog)
-https://media.giphy.com/media/13IjmDjuI66Xi8/giphy.gif
+
 -->
