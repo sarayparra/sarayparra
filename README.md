@@ -1,9 +1,4 @@
 ### Hi there 👋
-
-<!--
-**sarayparra/sarayparra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 - My Name is Saray Parra ( SEY-R-aa-HHiy- †)
 - 🔭 I’m currently working on a summer bootcamp
 - 🌱 I’m currently learning JavaScript and CSS
